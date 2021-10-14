@@ -1,0 +1,13 @@
+html{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.White{
+    color: black;
+    background-color: white;
+}
+
+.Dark{
+    color: white;
+    background-color: black;
+}
